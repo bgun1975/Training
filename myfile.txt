@@ -1,2 +1,1 @@
-Hallo Git
-Dies ist eine Änderung
+Hallo Git !!
