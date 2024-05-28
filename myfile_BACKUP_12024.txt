@@ -1,0 +1,8 @@
+Hallo Welt !!!
+Eintrag testbranch
+<<<<<<< HEAD
+Eintrag Master
+=======
+2. Eintrag testbranch
+>>>>>>> testbranch
+
