@@ -1,4 +1,6 @@
 Hallo Welt !!!
 Eintrag testbranch
 Eintrag Master
+Eintrag testbranch
+Konflikte gelöst
 
