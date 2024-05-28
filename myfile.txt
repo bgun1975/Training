@@ -1,4 +1,4 @@
 Hallo Git !!
 Ich bin eine Änderung aus mybranch
 Ich bin eine Änderung aus Master
-
+Neuer Inhalt in Master
